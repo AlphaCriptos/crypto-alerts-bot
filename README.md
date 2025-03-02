@@ -1,1 +1,1 @@
-#  crypto-alerts-bot
+# crypto-alerts-bot
